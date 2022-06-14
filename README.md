@@ -1,2 +1,2 @@
 # recursiveSailing
-An program which finds the shortest path in a matrix, given every point in the matrix has a vindspeed and vind direction
+An program which finds the shortest path in a matrix, given every point in the matrix has a windspeed and wind direction
